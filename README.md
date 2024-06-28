@@ -2,7 +2,7 @@
 - 👀 I’m interested in: Minecraft 🤓
 - 🌱 I’m currently learning: Python, HTML, CSS
 - 💞️ I’m looking to collaborate on: nothing
-- 📫 How to reach me: my email: miguelportella2008@gmil.com
+- 📫 How to reach me: my email: miguelportella2008@gmail.com
 - ⚡ Fun fact: Im sick
 
 <!---
